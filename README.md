@@ -22,6 +22,7 @@ A React Cheat Sheet to help you get going with using React.js
 * [Mabox-gl](https://www.npmjs.com/package/mapbox-gl)
 * [React-Map-gl](https://www.npmjs.com/package/react-map-gl)
 * [JWT-Decode](https://www.npmjs.com/package/jwt-decode)
+* [React DnD](https://github.com/react-dnd/react-dnd/)
 
 # Easy Databases & Storage
 * [Cloudinary](https://cloudinary.com)
