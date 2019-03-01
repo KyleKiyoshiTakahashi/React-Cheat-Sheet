@@ -27,3 +27,7 @@ A React Cheat Sheet to help you get going with using React.js
 # Easy Databases & Storage
 * [Cloudinary](https://cloudinary.com)
 * [Mongo Atlas](https://cloud.mongodb.com/user#/atlas/login)
+
+
+# REDUX Workflow
+![react-redux-workflow-graphical-cheat-sheet_v110](https://user-images.githubusercontent.com/43252585/53670680-5e516480-3c30-11e9-98f9-9ae476146f21.png)
