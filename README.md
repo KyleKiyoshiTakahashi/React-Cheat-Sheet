@@ -8,6 +8,8 @@ A React Cheat Sheet to help you get going with using React.js
 
 # Components
 * [Emoji Mart](https://github.com/missive/emoji-mart)
+* [React-Color](https://www.npmjs.com/package/react-color)
+* [React-Burger-Menu](https://www.npmjs.com/package/react-burger-menu)
 
 # Utilities
 * [Mime-Types](https://github.com/jshttp/mime-types#readme)
