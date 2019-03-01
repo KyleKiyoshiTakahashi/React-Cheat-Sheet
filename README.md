@@ -3,7 +3,7 @@ A React Cheat Sheet to help you get going with using React.js
 
 # UI Libraries
 * [Sematic UI React](https://react.semantic-ui.com/)
-* [Material UI ](https://material-ui.com/)
+* [Material UI](https://material-ui.com/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
 
 # Components
@@ -21,3 +21,8 @@ A React Cheat Sheet to help you get going with using React.js
 * [Date-FNS](https://www.npmjs.com/package/date-fns)
 * [Mabox-gl](https://www.npmjs.com/package/mapbox-gl)
 * [React-Map-gl](https://www.npmjs.com/package/react-map-gl)
+* [JWT-Decode](https://www.npmjs.com/package/jwt-decode)
+
+# Easy Databases & Storage
+* [Cloudinary](https://cloudinary.com)
+* [Mongo Atlas](https://cloud.mongodb.com/user#/atlas/login)
